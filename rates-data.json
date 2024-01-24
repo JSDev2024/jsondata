@@ -1,11 +1,12 @@
-
-  { "year": 2022,
+{
+  "rates2022": [{ "year": 2022,
   "ageGroup": "R1",
   "county": "BERNALILLO",
   "rate": 218.76,
   "ratingArea": "Rating Area 1"
 },
-{ "year": 2022,
+{
+  "year": 2022,
   "ageGroup": "R1",
   "county": "BERNALILLO",
   "rate": 201.87,
@@ -54772,8 +54773,8 @@
   "county": "",
   "rate": 349.41,
   "ratingArea": "Rating Area 5"
-},
- {
+}], 
+"rates2023":[{
   "year": 2023,
   "ageGroup": "R1",
   "county": "BERNALILLO",
@@ -199714,4 +199715,5 @@
   "county": "VALENCIA",
   "rate": 301.82,
   "ratingArea": "Rating Area 1"
+}]
 }
