@@ -1,5 +1,5 @@
 
-  { "year": 2022,
+  rates = [{ "year": 2022,
   "ageGroup": "R1",
   "county": "BERNALILLO",
   "rate": 218.76,
@@ -199714,4 +199714,4 @@
   "county": "VALENCIA",
   "rate": 301.82,
   "ratingArea": "Rating Area 1"
-}
+} ]
